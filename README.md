@@ -20,6 +20,9 @@ For a proper functionality of the code, Please do not delete any of the files as
 
 6 - please respect the order of the code cells during execution.
 
+The resources needed for the training process are available here:
+https://drive.google.com/drive/folders/1v5--qSFFmBVSo42RlgC8-Bwz0ratsJQd?usp=sharing
+
 For further questions or inquiries about this code, you can contact:
 - oussamahamel09@gmail.com
 - Lamari.selena.si.a3@gmail.com
