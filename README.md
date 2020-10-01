@@ -1,7 +1,7 @@
 # Bi-LstmPG : Bi-Lstm Neural Network for Paraphrase Generation
 Encoder Decoder For Paraphrase Generation This work is supported by the Ministry of Higher Education and Scientific Research in Algeria (Project C00L07UN100120180002)
 
-Conception & Supervision : L. Ouahrani & D. Bennouar / Collaborateurs : O. Hamel & S. Lamari
+Conception & Supervision : L. Ouahrani & D. Bennouar / Contributors : O. Hamel & S. Lamari
 
 This code is used to train an Bi LSTM neural network with pre-trained word embedding allowing the generation 
 of paraphrases.
